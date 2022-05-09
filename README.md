@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YubingWan
+- 👋 Hi, my name is Yubing (Benjamin) Wan
 - 👀 I’m interested in Biostatistics, Data Science 
 - 🌱 I’m currently learning LCA, deep learning, R packages
 - 💞️ I’m looking to collaborate on data mining and analysis researches 
