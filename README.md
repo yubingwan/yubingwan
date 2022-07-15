@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Yubing (Benjamin) Wan
 - 👀 I’m interested in Biostatistics, Data Science 
-- 🌱 I’m currently learning LCA, deep learning, R packages
-- 💞️ I’m looking to collaborate on data mining and analysis researches 
+- 🌱 I’m currently studying in LCA algorithms, deep learning, machine learning, ... 
+- 💞️ I’m looking to collaborate on data management, database development and data analysis researches 
 - 📫 How to reach me: wan.yubing@gmail.com
 
 <!---
