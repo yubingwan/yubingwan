@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Yubing (Benjamin) Wan
 - 👀 I’m interested in Biostatistics, Bioinformatic, Data Science, Cloud Computing, Machine Learning, etc. 
 - 🌱 I did researches in LCA algorithms, Penalized Regressions, Multiple Imputation with Missing Data, Single-indel Models, etc.  
-- 💞️ I’m working on projects related to data management, database development, data analysis and interative visuals. 
+- 💞️ I’m working on projects related to data management, database development, data analysis and report development. 
 - 📫 How to reach me: wan.yubing@gmail.com
 
 <!---
